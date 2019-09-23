@@ -26,8 +26,13 @@
   display: inline-block;
   float: left;
   padding-top: 0;
-  width: 400px;
+  width: 420px;
   height: 30px;
+  border-radius: 20px;
+  cursor: text;
+  font-size: 18px;
+  border-color: #EFEEEE;
+
 }
 
 #left-nav li img {
