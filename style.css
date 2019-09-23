@@ -56,11 +56,14 @@ list-style-type: none;
   margin: 5px;
   background-color: white;
   padding-left: 0;
-  margin-left: 100px;
+  margin-left: 150px;
 
 }
 
 nav ul {
+  font-family: all;
+  font-size: 15px;
+  font-color:black;
   list-style-type: none;
   padding: 0;
 
@@ -71,8 +74,8 @@ nav a{
 }
 
 nav img{
-  width: 25px;
-  height: 25px;
+  width: 20px;
+  height: 20px;
 }
 
 nav a.hover{
@@ -96,6 +99,16 @@ nav a.hover{
 hr {
   background-color: #EFEEEE;
   width: 100%;
+}
+
+
+.contant{
+  padding-left: 150px;
+  margin: 2px;
+}
+
+.result{
+  padding-top: 10px;
 }
 
 .footer {
